@@ -14,7 +14,7 @@ function Projects() {
   const projects = [
     {
       name: "Chatty app ",
-      description: "Real Time Chat app (may take time to load as hosted on free tier)",
+      description: "Real Time Chat app (may take time to load as project is hosted on free tier)",
       link: "https://chatty-react-app.onrender.com/",
       img: [chatty1, chatty2, chatty3, chatty4],
     },
